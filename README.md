@@ -36,11 +36,12 @@
 UPDATE 25.03.24.
 
 После 25 эпох:
-![alt text](https://github.com/yarkalm/cifar10/blob/main/graphics/metrics.jpg)
+![Uploading image.png…]()
+(https://github.com/yarkalm/cifar10/blob/main/graphics/metrics.jpg)
 
 Test: 100%|██████████| 1250/1250 [00:15<00:00, 80.95it/s] Accuracy of the network on the 10000 test images: 77.34 % Precision of the network on the 10000 test images: 0.786 Recall of the network on the 10000 test images: 0.773 F1 score of the network on the 10000 test images: 0.776
 
-![alt text](https://github.com/yarkalm/cifar10/blob/main/graphics/cnf.jpg)
+![Uploading image.png…]()(https://github.com/yarkalm/cifar10/blob/main/graphics/cnf.jpg)
 
 Пример работы TensorBoard:
-![alt text](https://github.com/yarkalm/cifar10/blob/main/graphics/tensorboard.jpg)
+![Uploading image.png…]()(https://github.com/yarkalm/cifar10/blob/main/graphics/tensorboard.jpg)
